@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-money-matters/static/css/main.22536cc3.css",
+    "main.js": "/project-money-matters/static/js/main.29575660.js",
+    "static/js/787.ffa5a7bb.chunk.js": "/project-money-matters/static/js/787.ffa5a7bb.chunk.js",
+    "index.html": "/project-money-matters/index.html",
+    "main.22536cc3.css.map": "/project-money-matters/static/css/main.22536cc3.css.map",
+    "main.29575660.js.map": "/project-money-matters/static/js/main.29575660.js.map",
+    "787.ffa5a7bb.chunk.js.map": "/project-money-matters/static/js/787.ffa5a7bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22536cc3.css",
+    "static/js/main.29575660.js"
+  ]
+}
